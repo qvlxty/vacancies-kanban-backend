@@ -1,0 +1,1 @@
+export const SECRET_PHRASE = 'TSKYH_VAGINA_199649';
